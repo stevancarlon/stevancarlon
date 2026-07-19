@@ -15,6 +15,8 @@ I am a cybersecurity enthusiast currently developing my application-security and
 
 Voice-controlled Android AI assistant built with Kotlin and Jetpack Compose. Its Phoenix backend handles authentication, billing verification, streaming speech, and secure AI-provider integrations.
 
+https://github.com/user-attachments/assets/dfdb97ec-6801-4567-b0e4-a71994260c50
+
 
 ## Stack
 
