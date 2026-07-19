@@ -1,5 +1,3 @@
-# Stevan Carlon
-
 ```text
 ┌─ Elixir/OTP · Phoenix · distributed systems
 └─ backend engineering · application security
